@@ -1,2 +1,1 @@
-# Aleo-tiktactor-
-My Aleo tictactoe App
+README.md
